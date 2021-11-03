@@ -17,4 +17,4 @@ jobs:
           aws-region: us-east-1
       - name: Copy files to S3 bucket using AWS CLI
         run: |
-          aws s3 sync . s3://${{ secrets.S3_BUCKET }} --exclude README.md
+          aws s3 sync . s3://${{ secrets.S3_BUCKET }} --exclude README.md --exclude ".*"
