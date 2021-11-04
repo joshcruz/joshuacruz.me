@@ -65,7 +65,7 @@ hr {
     justify-content: space-around;
     /* flex-flow: wrap; */
 }
-#position-info, #others {
+#others {
     display: flex;
     padding: 0 0 0 0;
     text-align: left;
