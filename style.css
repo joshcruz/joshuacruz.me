@@ -63,7 +63,7 @@ hr {
     padding: 0 0 0 0;
     display: flex;
     justify-content: space-around;
-    flex-flow: wrap;
+    /* flex-flow: wrap; */
 }
 #position-info, #others {
     display: flex;
