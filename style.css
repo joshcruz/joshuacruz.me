@@ -88,10 +88,10 @@ hr {
     flex-direction: row;
     margin: 0 0 0 auto;
 }
-#position-company {
+#position-company, #others-school {
     padding: 0 0 0 0;
 }
-#position-description, #others-school {
+#position-description {
     padding: 0 25px 0 25px;
 }
 #other {
