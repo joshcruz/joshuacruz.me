@@ -91,7 +91,7 @@ hr {
 #position-company {
     padding: 0 0 0 0;
 }
-#position-description {
+#position-description, #others-school {
     padding: 0 25px 0 25px;
 }
 #other {
