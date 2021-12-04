@@ -88,7 +88,7 @@ hr {
     flex-direction: row;
     margin: 0 0 0 auto;
 }
-#position-company {
+#position-company, #others-school {
     padding: 0 0 0 0;
 }
 #position-description {
